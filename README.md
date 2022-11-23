@@ -7,3 +7,4 @@ Overall, the GSN technology is a good addition, as it helped detetction become m
 Additional sources:
 https://earthquake.usgs.gov/education/eqscience-timeline.php and 
 https://pubs.usgs.gov/fs/2011/3021/pdf/fs2011-3021.pdf
+![Midterm2Graph](https://user-images.githubusercontent.com/99207737/203461421-a60fca23-20c2-4108-99ff-606a12499d18.png)
