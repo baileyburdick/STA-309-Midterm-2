@@ -5,5 +5,5 @@ I portrayed this data with three graphs. The first one shows the number of earth
 Overall, the GSN technology is a good addition, as it helped detetction become more consistent. 
 
 Additional sources:
-https://earthquake.usgs.gov/education/eqscience-timeline.php
+https://earthquake.usgs.gov/education/eqscience-timeline.php and 
 https://pubs.usgs.gov/fs/2011/3021/pdf/fs2011-3021.pdf
